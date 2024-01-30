@@ -20,3 +20,7 @@
 .audio-controls a:hover {
 	opacity: 0.6;
 }
+
+.audio-element {
+	display: none;
+}
